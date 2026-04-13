@@ -28,7 +28,7 @@ npx playwright install --with-deps
 
 ---
 
-## 🧪 Available test commands / Dostupné príkazy na spustenie testov
+## Available test commands / Dostupné príkazy na spustenie testov
 
 ### Basic / Základné
 ```bash
@@ -249,6 +249,3 @@ CI=true npm run test
 - Node.js v18+
 - npm
 
-## 📄 License / Licencia
-
-ISC
